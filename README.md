@@ -1,5 +1,4 @@
-## Hi there 👋
-
+### Hi there 👋
 # Welcome to my github profile, I am Adam.
 I like to program on my free time, and here is where I have placed some of my projects.
 
